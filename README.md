@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naresh-cyber2505
 - 👀 I’m interested in Software Development(Like Android Studio, Java, Kotlin , Flutter Dart etc...) 
-- 🌱 I’m currently learning Kotlin and Flutter(Dart)
+- 🌱 I’m currently learning Kotlin and Flutter(Dart), Also Databases
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through by Portfolio site
 
