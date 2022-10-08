@@ -6,7 +6,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through by Portfolio site just one click below 👇
 
-https://naresh-cyber2505.github.io/Portfolio-Site-personal/
+--> https://naresh-cyber2505.github.io/Portfolio-Site-personal/
+   
+- LinkedIn Account
+--> https://www.linkedin.com/in/naresh-a4975719a/
 
 
 <!---
